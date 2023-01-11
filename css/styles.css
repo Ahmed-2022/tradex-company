@@ -1,0 +1,1545 @@
+/*.....................*/
+/* Start sec_01 sytle */
+/*.....................*/
+
+
+#sec_01 .title_compay {
+    font-size: 15px;
+    color: white;
+
+}
+
+#sec_01 .navbar-light .navbar-nav .nav-link {
+    color: white !important;
+}
+
+#sec_01 .bg-light {
+    background-color: #0C65ED !important;
+}
+
+#sec_01 .navbar {
+    padding: 0.3rem 0rem !important;
+}
+
+.Button_Top_Fixed {
+    position: fixed;
+    border: 0px;
+    background-color: #0C65ED;
+    bottom: 20px;
+    right: 19px;
+    z-index: 1;
+    overflow: hidden;
+    border-radius: 6px;
+    display: none;
+}
+
+.Button_Top_Fixed i {
+    color: white;
+}
+
+
+/* .Button_change_color {
+    position: fixed;
+    border: none;
+    background-color: #d2d9e4;
+    bottom: 20px;
+    right: 19px;
+    z-index: 1;
+    border-radius: 6px;
+}
+
+.Button_change_color i {} */
+
+/*.....................*/
+/* End sec_01 sytle */
+/*.....................*/
+
+
+/*.....................*/
+/* Start sec_02 sytle */
+/*.....................*/
+
+#sec_02 .bg-dark {
+    background-color: white !important;
+    padding-bottom: 17px;
+
+}
+
+#sec_02 .Construction {
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 25px;
+
+}
+
+#sec_02 .text-dark {
+    color: #000000 !important;
+}
+
+#sec_02 .navbar-light .navbar-nav .nav-link {
+    color: #000000 !important;
+    padding-right: 20px;
+
+
+}
+
+
+
+#sec_02 .dropdown-menu {
+
+    border-top: 2px solid #0C65ED;
+    border-radius: 0px;
+}
+
+
+#sec_02 .dropdown-item.active,
+#sec_02 .dropdown-item:hover {
+    color: #fff;
+    text-decoration: none;
+    background-color: #007bff;
+}
+
+#sec_02 .navbar-nav li:hover>ul.dropdown-menu {
+    display: block;
+}
+
+#sec_02 .dropdown-submenu {
+    position: relative;
+}
+
+#sec_02 .dropdown-submenu2 {
+    position: relative;
+}
+
+#sec_02 .dropdown-submenu3 {
+    position: relative;
+}
+
+
+
+#sec_02 .dropdown-submenu1 .dropdown-menu {
+    top: 4px;
+    left: -11.1rem;
+    margin-top: -6px;
+}
+
+#sec_02 .dropdown-submenu2 .dropdown-menu {
+    top: -3px;
+    left: -13.6rem;
+    margin-top: -6px;
+}
+
+#sec_02 .dropdown-submenu3 .dropdown-menu {
+    top: -3px;
+    left: -11.2rem;
+    margin-top: -6px;
+}
+
+
+#sec_02 .dropdown-menu>li>a:hover:after {
+    transform: rotate(90deg);
+}
+
+
+/*.....................*/
+/* End sec_02 sytle */
+/*.....................*/
+
+
+
+/*.....................*/
+/* Start sec_03 sytle */
+/*.....................*/
+#sec_03 .bg-dark {
+    background-color: #343a409e !important;
+}
+
+#sec_03 .carousel-indicators {
+    padding-left: 0px;
+    margin-right: auto;
+    margin-left: auto;
+    flex-direction: column;
+    align-items: end;
+}
+
+#sec_03 .carousel-indicators li {
+    width: 10px;
+    height: 10px;
+    margin-right: 25px;
+    margin-left: auto;
+}
+
+#sec_03 .carousel-indicators li:hover {
+
+    transform: scale(1.5);
+}
+
+#sec_03 .carousel-indicators {
+    bottom: 50px;
+}
+
+#sec_03 .carousel-caption h2 {
+    font-family: system-ui;
+    font-size: 35px;
+}
+
+#sec_03 .carousel-caption p {
+    padding: 0px 42px 0px 42px;
+    font-size: 13px;
+
+}
+
+#sec_03 .carousel-caption a {
+    color: white;
+    border: 2px solid white;
+    border-radius: 68px;
+    padding: 6px 15px 6px 15px;
+    font-size: 13px;
+    margin-bottom: 20px;
+
+}
+
+#sec_03 .carousel-caption a:hover {
+    background-color: #007bff;
+    color: white;
+}
+
+/*.....................*/
+/* End sec_03 sytle */
+/*.....................*/
+
+/*.....................*/
+/* Start sec_04 sytle */
+/*.....................*/
+#sec_04 {
+    margin-top: 100px;
+    margin-bottom: 117px;
+    position: relative;
+
+}
+
+#sec_04 h2::after {
+    position: absolute;
+    margin-left: 19px;
+    content: " ";
+    width: 58px;
+    height: 2px;
+    top: 24px;
+    background-color: #007bff;
+
+}
+
+#sec_04 h2::before {
+    position: absolute;
+    margin-left: -75px;
+    content: " ";
+    width: 58px;
+    height: 2px;
+    top: 24px;
+    background-color: #007bff;
+
+}
+
+#sec_04 span::after {
+    position: absolute;
+    margin-left: 19px;
+    content: " ";
+    width: 33px;
+    height: 1px;
+    top: 19px;
+    background-color: #007bff;
+
+}
+
+#sec_04 span::before {
+    position: absolute;
+    margin-left: -185px;
+    content: " ";
+    width: 33px;
+    height: 1px;
+    top: 19px;
+    background-color: #007bff;
+
+}
+
+/*.....................*/
+/* End sec_04 sytle */
+/*.....................*/
+
+/*.....................*/
+/* Start sec_05 sytle */
+/*.....................*/
+#sec_05 {
+    background-color: #f0efef;
+    padding: 31px;
+
+}
+
+
+#sec_05 .icon i {
+    background: white;
+    padding: 15px;
+    font-size: 31px;
+    border-radius: 4px;
+    color: #0c65ecc4;
+    margin-right: 23px;
+
+}
+
+
+
+#sec_05 .Title h5 {
+    margin-bottom: 0px !important;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+#sec_05 .Title p {
+    color: gray;
+}
+
+/*.....................*/
+/* End sec_05 sytle */
+/*.....................*/
+
+/*.....................*/
+/* Start sec_06 sytle */
+/*.....................*/
+
+#sec_06 {
+    background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)),
+        url("../Images/service-bg.jpg") center center;
+    padding-bottom: 100px;
+    position: relative;
+    color: white;
+}
+
+#sec_06 article {
+    padding-top: 95px;
+
+}
+
+#sec_06 .Text_inside_section p {
+    padding: 15px 57px 51px 57px;
+    text-align: justify;
+}
+
+#sec_06 article h2::after {
+    position: absolute;
+    margin-left: 19px;
+    content: " ";
+    width: 58px;
+    height: 2px;
+    bottom: 21px;
+    background-color: #007bff;
+
+}
+
+#sec_06 article h2::before {
+    position: absolute;
+    margin-left: -75px;
+    content: " ";
+    width: 58px;
+    height: 2px;
+    bottom: 21px;
+    background-color: #007bff;
+
+}
+
+#sec_06 article span::after {
+    position: absolute;
+    margin-left: 19px;
+    content: " ";
+    width: 33px;
+    height: 1px;
+    bottom: 27px;
+    background-color: #007bff;
+
+}
+
+#sec_06 article span::before {
+    position: absolute;
+    margin-left: -185px;
+    content: " ";
+    width: 33px;
+    height: 1px;
+    bottom: 27px;
+    background-color: #007bff;
+
+}
+
+#sec_06 .parent {
+    position: relative;
+    border-radius: 8px;
+    border: 2px solid #b0b0b0;
+    display: flex;
+    justify-content: center;
+    padding: 45px;
+    width: 66%;
+    height: 248px;
+    overflow: hidden;
+}
+
+#sec_06 .parent .Text_and_Icon {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#sec_06 .parent .Text_and_Icon i {
+    color: white;
+    font-size: 41px;
+    margin-bottom: 17px;
+}
+
+#sec_06 .parent .Text_and_Icon h5 {
+    color: white;
+    text-transform: capitalize;
+    font-size: 23px;
+    font-family: sans-serif;
+
+}
+
+#sec_06 .parent .Box_hover_up {
+    position: absolute;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    top: 0px;
+    height: 245px;
+    transform: translate(0px, 250px);
+    transition: 0.4s;
+}
+
+#sec_06 .parent:hover .Box_hover_up {
+    transform: translate(0px, 0px);
+}
+
+
+
+#sec_06 .parent .Box_hover_up h4 {
+    padding-top: 43px;
+    color: black;
+    font-size: 30px;
+    text-transform: capitalize;
+    font-family: system-ui;
+}
+
+#sec_06 .parent .Box_hover_up p {
+    text-align: center;
+    color: black;
+    font-size: 19px;
+    padding: 1px 30px 1px 24px;
+
+}
+
+#sec_06 .parent .Box_hover_up a {
+    background-color: #0C65EC;
+    padding: 7px 30px 7px 30px;
+    border-radius: 66px;
+    color: white;
+    text-transform: capitalize;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+/*.....................*/
+/* End sec_05 sytle */
+/*.....................*/
+
+
+/*.....................*/
+/* Start sec_07 sytle */
+/*.....................*/
+
+#sec_07 .Total_Tabs .Title_text {
+    font-family: sans-serif;
+    color: white;
+    background-color: rgb(12 101 237 / 82%);
+    position: absolute;
+    z-index: 1;
+    bottom: 12%;
+    left: 19%;
+    border-radius: 7px;
+    padding: 8px 30px 5px 30px;
+    transform: translate(-430px, 0px);
+    transition: 0.5s;
+
+}
+
+#sec_07 .Total_Tabs .change_zindex:hover .Title_text {
+    animation: scale-up-hor-center 0.7s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+}
+
+@keyframes scale-up-hor-center {
+    0% {
+        transform: scaleX(0.4);
+    }
+
+    100% {
+        transform: scaleX(1);
+    }
+}
+
+#sec_07 .Total_Tabs .change_zindex {
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+}
+
+#sec_07 .Total_Tabs .change_zindex:hover {
+    box-shadow: 0px 4px 14px -2px rgba(0, 0, 0, 0.79);
+}
+
+#sec_07 .Total_Tabs .change_zindex img {
+    position: relative;
+}
+
+#sec_07 .Total_Tabs .Title_text h4 {
+
+    text-transform: capitalize;
+    font-size: 14px;
+
+}
+
+#sec_07 .Total_Tabs .Title_text h6 {
+    font-size: 14px;
+    margin-right: 42px;
+    display: flex;
+    justify-content: space-between;
+    font-weight: 900;
+
+}
+
+#sec_07 .Total_Tabs .Title_text h6 i {
+    font-size: 17px;
+}
+
+#sec_07 .Total_Tabs .nav-pills .nav-link.active,
+.nav-pills .show>.nav-link {
+    color: #000;
+    background-color: transparent;
+    font-size: 17px;
+}
+
+#sec_07 .Total_Tabs a {
+    color: black;
+    text-transform: capitalize;
+    font-size: 15px;
+
+}
+
+#sec_07 .Total_Tabs a:hover {
+    color: #0C65EC;
+}
+
+/*.....................*/
+/* End sec_07 sytle */
+/*.....................*/
+
+/*.....................*/
+/* Start sec_07 sytle */
+/*.....................*/
+#sec_08 {
+    margin-top: 15px;
+    position: relative;
+    color: black;
+}
+
+#sec_08 article {
+    padding-top: 95px;
+
+}
+
+#sec_08 .Text_inside_section p {
+    padding: 15px 57px 51px 57px;
+    text-align: center;
+}
+
+#sec_08 article h2::after {
+    position: absolute;
+    margin-left: 19px;
+    content: " ";
+    width: 58px;
+    height: 2px;
+    bottom: 21px;
+    background-color: #007bff;
+
+}
+
+#sec_08 article h2::before {
+    position: absolute;
+    margin-left: -75px;
+    content: " ";
+    width: 58px;
+    height: 2px;
+    bottom: 21px;
+    background-color: #007bff;
+
+}
+
+#sec_08 article span::after {
+    position: absolute;
+    margin-left: 19px;
+    content: " ";
+    width: 33px;
+    height: 1px;
+    bottom: 27px;
+    background-color: #007bff;
+
+}
+
+#sec_08 article span::before {
+    position: absolute;
+    margin-left: -192px;
+    content: " ";
+    width: 33px;
+    height: 1px;
+    bottom: 27px;
+    background-color: #007bff;
+
+}
+
+/* section img */
+#sec_09 {
+    margin-top: 50px;
+}
+
+/*.....................*/
+/* End sec_07 sytle */
+/*.....................*/
+
+
+/*.....................*/
+/* Start sec_10 sytle */
+/*.....................*/
+
+#sec_10 {
+    position: relative;
+    color: black;
+}
+
+#sec_10 article {
+    padding-top: 95px;
+
+}
+
+#sec_10 .Text_inside_section p {
+    padding: 15px 57px 51px 57px;
+    text-align: center;
+}
+
+#sec_10 article h2::after {
+    position: absolute;
+    margin-left: 19px;
+    content: " ";
+    width: 58px;
+    height: 2px;
+    bottom: 21px;
+    background-color: #007bff;
+
+}
+
+#sec_10 article h2::before {
+    position: absolute;
+    margin-left: -75px;
+    content: " ";
+    width: 58px;
+    height: 2px;
+    bottom: 21px;
+    background-color: #007bff;
+
+}
+
+#sec_10 article span::after {
+    position: absolute;
+    margin-left: 19px;
+    content: " ";
+    width: 33px;
+    height: 1px;
+    bottom: 27px;
+    background-color: #007bff;
+
+}
+
+#sec_10 article span::before {
+    position: absolute;
+    margin-left: -317px;
+    content: " ";
+    width: 33px;
+    height: 1px;
+    bottom: 27px;
+    background-color: #007bff;
+
+}
+
+/*.....................*/
+/* End sec_10 sytle */
+/*.....................*/
+
+/*.....................*/
+/* Start sec_11 sytle */
+/*.....................*/
+
+#sec_11 .parent_card {
+    text-align: center;
+    overflow: hidden;
+    border-bottom: 2px solid;
+    position: relative;
+}
+
+#sec_11 .parent_card .card_text {
+    position: absolute;
+    top: 53%;
+    padding-bottom: 22px;
+    box-shadow: 1px 0px 8px 0px rgb(0 0 0);
+    background-color: #ffffff;
+    transform: translate(0px, 110px);
+    transition: 0.5s;
+}
+
+#sec_11 .parent_card:hover .card_text {
+    top: 23%;
+
+}
+
+#sec_11 .parent_card:hover {
+    border-bottom: 0px;
+}
+
+
+#sec_11 .parent_card .card_text span {
+    background-color: #0C65EC;
+    font-size: 17px;
+    padding: 10px 24px 10px 40px;
+    text-align: center;
+}
+
+#sec_11 .parent_card .card_text span a {
+    color: white;
+    padding-right: 15px;
+
+}
+
+#sec_11 .parent_card .card_text p {
+    font-size: 14px;
+    padding: 0px 10px 0px 10px;
+    text-align: justify;
+}
+
+/*.....................*/
+/* End sec_11 sytle */
+/*.....................*/
+
+
+/*.....................*/
+/* Start  sec_12 sytle */
+/*.....................*/
+#sec_12 .nav-tabs {
+    border-bottom: none;
+}
+
+#sec_12 .border1 {
+    border-bottom: 3px solid #0C65EC !important;
+    border-left: 3px solid #0C65EC !important;
+    border-top: 3px solid #0C65EC !important;
+    border-radius: 5px 0px 0px 5px;
+
+}
+
+#sec_12 .border2 {
+    border-bottom: 3px solid #0C65EC !important;
+    border-right: 3px solid #0C65EC !important;
+    border-top: 3px solid #0C65EC !important;
+    border-radius: 0px 5px 5px 0px;
+
+}
+
+#sec_12 .nav-tabs .nav-item a {
+    color: #0C65EC !important;
+    background-color: white !important;
+    font-weight: 600;
+    font-size: 17px;
+}
+
+#sec_12 .nav-tabs .nav-item a:focus {
+
+    background-color: #0C65EC !important;
+    color: white !important;
+}
+
+
+
+#sec_12 .nav-tabs .nav-link {
+    margin-bottom: auto !important;
+    border: none !important;
+    border-top-left-radius: none !important;
+    border-top-right-radius: none !important;
+}
+
+#sec_12 .list-group-item {
+    border: none !important;
+}
+
+#sec_12 .card .list-group {
+    border-top: none !important;
+    border-bottom: none !important;
+}
+
+#sec_12 .card .list-group .list-group-item h5 {
+    font-size: 20px;
+}
+
+#sec_12 .card .list-group .list-group-item h5 i {
+    font-size: 19px;
+    color: #0C65EC;
+}
+
+#sec_12 .card .list-group .list-group-item p {
+    font-size: 14px;
+    padding: 0px 6px 5px 6px;
+}
+
+#sec_12 .card .card-body a {
+    border: 2px solid #0C65EC;
+    padding: 10px 44px 10px 44px;
+    border-radius: 77px;
+    font-weight: 600;
+}
+
+#sec_12 .card .card-body a:hover {
+    background-color: #0C65EC;
+    color: white;
+}
+
+#sec_12 .card-body h6 span {
+    color: #0C65EC;
+    font-weight: 700;
+    font-size: 19px;
+
+}
+
+/*.....................*/
+/* End  sec_12 sytle */
+/*.....................*/
+/*.....................*/
+/* Start sec_17 sytle */
+/*.....................*/
+
+#sec_17 {
+    position: relative;
+    color: black;
+}
+
+#sec_17 article {
+    padding-top: 95px;
+
+}
+
+#sec_17 .Text_inside_section p {
+    padding: 15px 57px 51px 57px;
+    text-align: center;
+}
+
+#sec_17 article h2::after {
+    position: absolute;
+    margin-left: 19px;
+    content: " ";
+    width: 58px;
+    height: 2px;
+    bottom: 21px;
+    background-color: #007bff;
+
+}
+
+#sec_17 article h2::before {
+    position: absolute;
+    margin-left: -75px;
+    content: " ";
+    width: 58px;
+    height: 2px;
+    bottom: 21px;
+    background-color: #007bff;
+
+}
+
+#sec_17 article span::after {
+    position: absolute;
+    margin-left: 19px;
+    content: " ";
+    width: 33px;
+    height: 1px;
+    bottom: 27px;
+    background-color: #007bff;
+
+}
+
+#sec_17 article span::before {
+    position: absolute;
+    margin-left: -214px;
+    content: " ";
+    width: 33px;
+    height: 1px;
+    bottom: 27px;
+    background-color: #007bff;
+
+}
+
+/*.....................*/
+/* End sec_17 sytle */
+/*.....................*/
+/*.....................*/
+/* Start  sec_13 sytle */
+/*.....................*/
+
+
+#sec_13 {
+    background-color: #1A1A1A;
+    padding: 50px;
+}
+
+#sec_13 article h2 {
+    color: white;
+    font-size: 30px;
+
+}
+
+#sec_13 article h2 i {
+    color: white;
+    margin-right: 15px;
+
+}
+
+#sec_13 article .email::placeholder {
+    text-align: center;
+}
+
+#sec_13 article .email {
+    height: 41px;
+    width: 60%;
+    border-radius: 8px;
+    border: none;
+}
+
+#sec_13 article .Subscribe {
+    background-color: #0C65EC;
+    border-radius: 66px;
+    padding: 6px 22px 6px 22px;
+    color: white;
+    font-size: 20px;
+    border: none;
+}
+
+/*.....................*/
+/* End  sec_13 sytle */
+/*.....................*/
+
+
+/*.....................*/
+/* Start  sec_14 sytle */
+/*.....................*/
+
+#sec_14 {
+    position: relative;
+    color: black;
+    margin-top: 100px;
+
+}
+
+#sec_14 article {
+    padding-top: 95px;
+
+}
+
+#sec_14 .Text_inside_section p {
+    padding: 15px 57px 51px 57px;
+    text-align: center;
+}
+
+#sec_14 article h2::after {
+    position: absolute;
+    margin-left: 19px;
+    content: " ";
+    width: 58px;
+    height: 2px;
+    bottom: 21px;
+    background-color: #007bff;
+
+}
+
+#sec_14 article h2::before {
+    position: absolute;
+    margin-left: -75px;
+    content: " ";
+    width: 58px;
+    height: 2px;
+    bottom: 21px;
+    background-color: #007bff;
+
+}
+
+#sec_14 article span::after {
+    position: absolute;
+    margin-left: 19px;
+    content: " ";
+    width: 33px;
+    height: 1px;
+    bottom: 27px;
+    background-color: #007bff;
+
+}
+
+#sec_14 article span::before {
+    position: absolute;
+    margin-left: -214px;
+    content: " ";
+    width: 33px;
+    height: 1px;
+    bottom: 27px;
+    background-color: #007bff;
+
+}
+
+/*.....................*/
+/* End  sec_14 sytle */
+/*.....................*/
+
+
+/*.....................*/
+/* Start  sec_15 sytle */
+/*.....................*/
+
+#sec_15  .owl-carousel .owl-nav.disabled{
+    display: block !important;
+}
+#sec_15 .owl-carousel .owl-item img {
+    /* height: 73%;
+    width: 70%;
+    margin-left: 34px;
+    margin-top: 23px; */
+    border-radius: 10px;
+}
+
+#sec_15 .owl-carousel .owl-nav button.owl-next,
+.owl-carousel .owl-nav button.owl-prev,
+.owl-carousel button.owl-dot {
+    margin-right: 20px;
+    position: relative;
+    left: 45%;
+    top: 30px;
+    background: #0C65EC;
+    border: 0px !important;
+    border-radius: 8px;
+    color: white;
+
+}
+
+#sec_15 .Tired_l {
+    padding: 10px 15px 10px 8px;
+
+}
+
+#sec_15 .Tired_r {
+    padding: 10px 8px 10px 15px;
+
+}
+
+/*.....................*/
+/* End  sec_15 sytle */
+/*.....................*/
+
+
+/*.....................*/
+/* Start  sec_16 sytle */
+/*.....................*/
+
+#sec_16 .parent {
+    position: relative;
+    box-shadow: 0px 5px 19px -4px #000000;
+    overflow: hidden;
+
+}
+
+#sec_16 .parent:hover .left_icon {
+    background-color: #007bff;
+
+}
+
+#sec_16 .parent .parnet_of_text {
+    display: flex;
+}
+
+#sec_16 .parent .parnet_of_text .left_icon {
+    background-color: black;
+    width: 31%;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+
+}
+
+#sec_16 .parent .parnet_of_text .left_icon span {
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#sec_16 .parent .parnet_of_text .left_icon span a {
+    padding-top: 11px;
+    font-size: 15px;
+    color: white;
+
+}
+
+#sec_16 .parent .img {
+    transition-duration: 0.4s;
+}
+
+#sec_16 .parent:hover .img {
+    transform: scale(1.1);
+}
+
+#sec_16 .parent:hover .Total_text .line_blue {
+    width: 100%;
+}
+
+#sec_16 .Total_text a i:hover {
+    transform: translate(8px, 0px);
+}
+
+#sec_16 .Total_text a i {
+    transition-duration: 0.5s;
+}
+
+#sec_16 .parent:hover .parnet_of_text .left_icon {
+    background-color: #0C65EC;
+    color: white;
+
+}
+
+#sec_16 .parent .Total_text .line_blue {
+    border-bottom: 2px solid #0C65EC;
+    position: relative;
+    top: 9px;
+    width: 24%;
+    transition-duration: 1s;
+}
+
+
+#sec_16 .parent .Total_text h2 {
+    font-size: 18px;
+    padding: 15px 8px 0px 10px;
+}
+
+#sec_16 .parent .Total_text span {
+    color: gray;
+    font-size: 12px;
+    margin-left: 10px;
+}
+
+#sec_16 .parent .Total_text {
+    padding-bottom: 15px;
+}
+
+#sec_16 .parent .Total_text p {
+    font-size: 13px;
+    padding: 8px 8px 0px 10px;
+    text-align: justify;
+}
+
+#sec_16 .parent .Total_text a {
+    color: black;
+    font-weight: 600;
+    padding: 8px 8px 0px 10px;
+    text-decoration: none;
+
+}
+
+/*.....................*/
+/* End  sec_16 sytle */
+/*.....................*/
+
+
+/*.....................*/
+/* Start sec_18 sytle */
+/*.....................*/
+
+#sec_18 {
+    position: relative;
+    color: black;
+}
+
+#sec_18 article {
+    padding-top: 95px;
+
+}
+
+
+
+#sec_18 article h2::after {
+    position: absolute;
+    margin-left: 19px;
+    content: " ";
+    width: 58px;
+    height: 2px;
+    bottom: 21px;
+    background-color: #007bff;
+
+}
+
+
+#sec_18 article span::after {
+    position: absolute;
+    margin-left: 19px;
+    content: " ";
+    width: 33px;
+    height: 2px;
+    bottom: 27px;
+    background-color: #007bff;
+
+}
+
+/*.....................*/
+/* End sec_18 sytle */
+/*.....................*/
+
+
+
+/*.....................*/
+/* Start  sec_20 sytle */
+/*.....................*/
+
+
+#sec_20 {
+    background-color: #0C65EC;
+    /* padding: 41px; */
+    margin-top: -17px;
+}
+
+
+#sec_20 article h2 {
+    color: white;
+    font-size: 21px;
+
+}
+
+#sec_20 article h2 i {
+    color: #ccc8c882;
+    margin-right: -90px;
+    margin-top: 27px;
+    font-size: 80px;
+}
+
+#sec_20 .Pro_Text {
+    display: flex;
+    justify-content: center;
+}
+
+#sec_20 .Pro_subscribe {
+    display: flex;
+    justify-content: center;
+
+}
+
+
+#sec_20 article .Subscribe {
+    background-color: white;
+    border-radius: 66px;
+    padding: 6px 22px 6px 22px;
+    color: #0C65EC;
+    font-size: 20px;
+    border: none;
+}
+
+/*.....................*/
+/* End  sec_20 sytle */
+/*.....................*/
+/*.....................*/
+/* Start  sec_21 sytle */
+/*.....................*/
+#sec_21 .devolp {
+    background-color: #1A1A1A;
+    z-index: 1;
+    color: #0C65EC;
+    text-align: center;
+    margin-top: 162px;
+    padding: 30px;
+    box-shadow: 4px 10px 13px 6px #646464;
+    font-weight: 600;
+}
+
+#sec_21 {
+    background-color: #1A1A1A;
+    color: white;
+
+}
+
+#sec_21 .Slid_1 .Link_Footer {
+    display: flex;
+    flex-direction: column;
+
+}
+
+#sec_21 .Slid_1 h4 {
+    border: 1px solid #0C65EC;
+    width: 25%;
+
+}
+
+#sec_21 .Slid_1 h2,
+.Slid_2 h2,
+.Slid_3 h2 {
+    padding-top: 70px;
+}
+
+#sec_21 .Slid_1 .Link_Footer i {
+    padding-right: 12px;
+}
+
+#sec_21 .Slid_1 .Link_Footer a {
+    color: white;
+    padding-top: 10px;
+    text-decoration: none;
+
+
+}
+
+#sec_21 .Slid_2 h4 {
+    border: 1px solid #0C65EC;
+    width: 25%;
+}
+
+#sec_21 .Slid_2 .Post_Footer h6 {
+    width: 50%;
+    padding-left: 14px;
+
+}
+
+#sec_21 .Slid_2 .Post_Footer .dat {
+    display: flex;
+    width: 100%;
+    margin-top: 8px;
+    font-size: 12px;
+    padding-left: 1px;
+    color: #aaaaaacc;
+    font-weight: 600;
+}
+
+#sec_21 .Slid_2 .Post_Footer {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+
+#sec_21 .Slid_3 .Multi_Link_Footer {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+#sec_21 .Slid_3 .Multi_Link_Footer a {
+    color: black;
+    background-color: white;
+    padding: 5px;
+    border-radius: 50px;
+    margin-bottom: 7px;
+    text-decoration: none;
+    font-weight: 500;
+
+}
+
+#sec_21 .Slid_3 h4 {
+    border: 1px solid #0C65EC;
+    width: 25%;
+}
+
+
+/*.....................*/
+/* End  sec_21 sytle */
+/*.....................*/
+
+
+
+
+/*
+Extra small devices (portrait phones, less than 576 px)
+Nomedia query since this is the default if you use "mobile first"*/
+
+@media(min-width:523px) {}
+
+@media (min-width: 576px) {
+    #sec_07 .Total_Tabs a span {
+        margin-left: 10px;
+    }
+
+
+
+
+}
+
+
+@media (min-width: 768px) {
+
+
+    #sec_03 .carousel-indicators {
+        bottom: 96px;
+    }
+
+    #sec_03 .carousel-caption p {
+        padding: 0px 79px 0px 79px;
+        font-size: 15px;
+
+    }
+
+    #sec_03 .carousel-caption a {
+        padding: 5px 15px 5px 15px;
+        font-size: 13px;
+        margin-bottom: 51px;
+
+    }
+
+    #sec_03 .carousel-caption h2 {
+        font-size: 60px;
+    }
+
+    #sec_06 .parent .Text_and_Icon i {
+        color: white;
+        font-size: 30px;
+        margin-bottom: 17px;
+    }
+
+    #sec_06 .parent .Text_and_Icon h5 {
+        font-size: 15px;
+    }
+
+
+    #sec_06 .parent {
+
+        width: 100%;
+    }
+
+    #sec_07 .Total_Tabs a {
+        font-size: 16px;
+    }
+
+    #sec_13 article .email {
+        width: 55%;
+    }
+
+    #sec_13 article h2 {
+        font-size: 24px;
+    }
+
+
+    #sec_20 .Pro_subscribe {
+        align-items: center;
+    }
+
+
+
+    #sec_20 .Pro_Text h2 {
+        font-size: 25px;
+    }
+
+
+}
+
+
+
+@media (min-width: 922px) {
+    #sec_03 .carousel-indicators {
+        bottom: 181px;
+    }
+
+
+    #sec_03 .carousel-caption a {
+        font-size: 14px;
+        margin-bottom: 106px;
+    }
+
+    #sec_03 .carousel-caption p {
+        padding: 0px 110px 0px 110px;
+        font-size: 17px;
+    }
+
+    #sec_06 .Text_inside_section p {
+        text-align: center;
+    }
+
+
+    #sec_06 .parent .Text_and_Icon i {
+        color: white;
+        font-size: 39px;
+        margin-bottom: 17px;
+    }
+
+
+    #sec_06 .parent .Text_and_Icon h5 {
+        font-size: 24px;
+    }
+
+    #sec_12 .content {
+        width: 18rem;
+
+    }
+
+    #sec_13 article h2 {
+        font-size: 21px;
+    }
+
+
+    #sec_20 .Pro_subscribe {
+        align-items: end;
+        justify-content: end;
+
+    }
+
+    #sec_20 .Pro_Text h2 {
+        font-size: 21px;
+    }
+
+
+    #sec_21 .Slid_2 .Post_Footer h6 {
+        font-size: 14px;
+    }
+
+
+
+}
+
+@media (min-width: 1200px) {
+    #sec_03 .carousel-caption h2 {
+        font-size: 106px;
+    }
+
+    #sec_03 .carousel-caption p {
+        padding: 0px 210px 0px 210px;
+        font-size: 18px;
+    }
+
+    #sec_03 .carousel-caption a {
+        font-size: 20px;
+    }
+
+
+
+    #sec_12 .content {
+        width: 20rem;
+
+    }
+
+    #sec_13 article h2 {
+        font-size: 27px;
+    }
+
+
+    #sec_20 .Pro_Text h2 {
+        font-size: 26px;
+    }
+
+
+}
